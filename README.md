@@ -1,5 +1,5 @@
 # AERO-Discordbot
-My first Discord Bot made with .NETCore 2 called AERO with a couple of commands like ;;ping
+My first Discord Bot made with .NETCore 2 called AERO with a couple of commands like ;;name
 
 The bot consists of a CommandHandler and a Module for simple textbased commands
 
