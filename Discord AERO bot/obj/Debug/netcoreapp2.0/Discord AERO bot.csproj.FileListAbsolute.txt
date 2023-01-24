@@ -1,0 +1,47 @@
+c:\users\moritz\source\repos\Discord AERO bot\Discord AERO bot\bin\Debug\netcoreapp2.0\Discord AERO bot.deps.json
+c:\users\moritz\source\repos\Discord AERO bot\Discord AERO bot\bin\Debug\netcoreapp2.0\Discord AERO bot.runtimeconfig.json
+c:\users\moritz\source\repos\Discord AERO bot\Discord AERO bot\bin\Debug\netcoreapp2.0\Discord AERO bot.runtimeconfig.dev.json
+c:\users\moritz\source\repos\Discord AERO bot\Discord AERO bot\bin\Debug\netcoreapp2.0\Discord AERO bot.dll
+c:\users\moritz\source\repos\Discord AERO bot\Discord AERO bot\obj\Debug\netcoreapp2.0\Discord AERO bot.csprojResolveAssemblyReference.cache
+c:\users\moritz\source\repos\Discord AERO bot\Discord AERO bot\obj\Debug\netcoreapp2.0\Discord AERO bot.csproj.CoreCompileInputs.cache
+c:\users\moritz\source\repos\Discord AERO bot\Discord AERO bot\obj\Debug\netcoreapp2.0\Discord AERO bot.AssemblyInfoInputs.cache
+c:\users\moritz\source\repos\Discord AERO bot\Discord AERO bot\obj\Debug\netcoreapp2.0\Discord AERO bot.AssemblyInfo.cs
+c:\users\moritz\source\repos\Discord AERO bot\Discord AERO bot\bin\Debug\netcoreapp2.0\Discord AERO bot.pdb
+c:\users\moritz\source\repos\Discord AERO bot\Discord AERO bot\obj\Debug\netcoreapp2.0\Discord AERO bot.dll
+c:\users\moritz\source\repos\Discord AERO bot\Discord AERO bot\obj\Debug\netcoreapp2.0\Discord AERO bot.pdb
+C:\Users\Moritz\source\repos\Privat\Discord AERO bot\Discord AERO bot\bin\Debug\netcoreapp2.0\Discord AERO bot.deps.json
+C:\Users\Moritz\source\repos\Privat\Discord AERO bot\Discord AERO bot\bin\Debug\netcoreapp2.0\Discord AERO bot.runtimeconfig.json
+C:\Users\Moritz\source\repos\Privat\Discord AERO bot\Discord AERO bot\bin\Debug\netcoreapp2.0\Discord AERO bot.runtimeconfig.dev.json
+C:\Users\Moritz\source\repos\Privat\Discord AERO bot\Discord AERO bot\bin\Debug\netcoreapp2.0\Discord AERO bot.dll
+C:\Users\Moritz\source\repos\Privat\Discord AERO bot\Discord AERO bot\bin\Debug\netcoreapp2.0\Discord AERO bot.pdb
+C:\Users\Moritz\source\repos\Privat\Discord AERO bot\Discord AERO bot\obj\Debug\netcoreapp2.0\Discord AERO bot.csprojResolveAssemblyReference.cache
+C:\Users\Moritz\source\repos\Privat\Discord AERO bot\Discord AERO bot\obj\Debug\netcoreapp2.0\Discord AERO bot.csproj.CoreCompileInputs.cache
+C:\Users\Moritz\source\repos\Privat\Discord AERO bot\Discord AERO bot\obj\Debug\netcoreapp2.0\Discord AERO bot.AssemblyInfoInputs.cache
+C:\Users\Moritz\source\repos\Privat\Discord AERO bot\Discord AERO bot\obj\Debug\netcoreapp2.0\Discord AERO bot.AssemblyInfo.cs
+C:\Users\Moritz\source\repos\Privat\Discord AERO bot\Discord AERO bot\obj\Debug\netcoreapp2.0\Discord AERO bot.dll
+C:\Users\Moritz\source\repos\Privat\Discord AERO bot\Discord AERO bot\obj\Debug\netcoreapp2.0\Discord AERO bot.pdb
+C:\Users\Moritz\source\C#\BOTS\Discord AERO bot\Discord AERO bot\bin\Debug\netcoreapp2.0\Discord AERO bot.deps.json
+C:\Users\Moritz\source\C#\BOTS\Discord AERO bot\Discord AERO bot\bin\Debug\netcoreapp2.0\Discord AERO bot.runtimeconfig.json
+C:\Users\Moritz\source\C#\BOTS\Discord AERO bot\Discord AERO bot\bin\Debug\netcoreapp2.0\Discord AERO bot.runtimeconfig.dev.json
+C:\Users\Moritz\source\C#\BOTS\Discord AERO bot\Discord AERO bot\bin\Debug\netcoreapp2.0\Discord AERO bot.dll
+C:\Users\Moritz\source\C#\BOTS\Discord AERO bot\Discord AERO bot\bin\Debug\netcoreapp2.0\Discord AERO bot.pdb
+C:\Users\Moritz\source\C#\BOTS\Discord AERO bot\Discord AERO bot\obj\Debug\netcoreapp2.0\Discord AERO bot.csprojAssemblyReference.cache
+C:\Users\Moritz\source\C#\BOTS\Discord AERO bot\Discord AERO bot\obj\Debug\netcoreapp2.0\Discord AERO bot.AssemblyInfoInputs.cache
+C:\Users\Moritz\source\C#\BOTS\Discord AERO bot\Discord AERO bot\obj\Debug\netcoreapp2.0\Discord AERO bot.AssemblyInfo.cs
+C:\Users\Moritz\source\C#\BOTS\Discord AERO bot\Discord AERO bot\obj\Debug\netcoreapp2.0\Discord AERO bot.csproj.CoreCompileInputs.cache
+C:\Users\Moritz\source\C#\BOTS\Discord AERO bot\Discord AERO bot\obj\Debug\netcoreapp2.0\Discord AERO bot.dll
+C:\Users\Moritz\source\C#\BOTS\Discord AERO bot\Discord AERO bot\obj\Debug\netcoreapp2.0\Discord AERO bot.pdb
+C:\Users\Moritz\source\C#\BOTS\Discord AERO bot\Discord AERO bot\obj\Debug\netcoreapp2.0\Discord AERO bot.genruntimeconfig.cache
+C:\Users\morit\OLD PC IMPORTANT DATA\source\C#\BOTS\Discord AERO bot\Discord AERO bot\bin\Debug\netcoreapp2.0\Discord AERO bot.deps.json
+C:\Users\morit\OLD PC IMPORTANT DATA\source\C#\BOTS\Discord AERO bot\Discord AERO bot\bin\Debug\netcoreapp2.0\Discord AERO bot.runtimeconfig.json
+C:\Users\morit\OLD PC IMPORTANT DATA\source\C#\BOTS\Discord AERO bot\Discord AERO bot\bin\Debug\netcoreapp2.0\Discord AERO bot.runtimeconfig.dev.json
+C:\Users\morit\OLD PC IMPORTANT DATA\source\C#\BOTS\Discord AERO bot\Discord AERO bot\bin\Debug\netcoreapp2.0\Discord AERO bot.dll
+C:\Users\morit\OLD PC IMPORTANT DATA\source\C#\BOTS\Discord AERO bot\Discord AERO bot\bin\Debug\netcoreapp2.0\Discord AERO bot.pdb
+C:\Users\morit\OLD PC IMPORTANT DATA\source\C#\BOTS\Discord AERO bot\Discord AERO bot\obj\Debug\netcoreapp2.0\Discord AERO bot.csproj.AssemblyReference.cache
+C:\Users\morit\OLD PC IMPORTANT DATA\source\C#\BOTS\Discord AERO bot\Discord AERO bot\obj\Debug\netcoreapp2.0\Discord AERO bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morit\OLD PC IMPORTANT DATA\source\C#\BOTS\Discord AERO bot\Discord AERO bot\obj\Debug\netcoreapp2.0\Discord AERO bot.AssemblyInfoInputs.cache
+C:\Users\morit\OLD PC IMPORTANT DATA\source\C#\BOTS\Discord AERO bot\Discord AERO bot\obj\Debug\netcoreapp2.0\Discord AERO bot.AssemblyInfo.cs
+C:\Users\morit\OLD PC IMPORTANT DATA\source\C#\BOTS\Discord AERO bot\Discord AERO bot\obj\Debug\netcoreapp2.0\Discord AERO bot.csproj.CoreCompileInputs.cache
+C:\Users\morit\OLD PC IMPORTANT DATA\source\C#\BOTS\Discord AERO bot\Discord AERO bot\obj\Debug\netcoreapp2.0\Discord AERO bot.dll
+C:\Users\morit\OLD PC IMPORTANT DATA\source\C#\BOTS\Discord AERO bot\Discord AERO bot\obj\Debug\netcoreapp2.0\Discord AERO bot.pdb
+C:\Users\morit\OLD PC IMPORTANT DATA\source\C#\BOTS\Discord AERO bot\Discord AERO bot\obj\Debug\netcoreapp2.0\Discord AERO bot.genruntimeconfig.cache
